@@ -1,0 +1,28 @@
+
+/*
+.noteCard{
+    background-color: cornsilk;
+}
+
+.cordBody {
+    overflow: hidden;
+    mask-image: linear-gradient(180deg, #000 60%, transparent);
+}
+
+.cartText{
+    white-space: pre-line;
+}
+*/
+
+.noteCard {
+    background-color: cornsilk !important ;
+}
+
+.cardBody {
+    overflow: hidden !important;
+    mask-image: linear-gradient(180deg, #000 60%, transparent) !important; 
+}
+
+.cardText {
+    white-space: pre-line !important;
+}

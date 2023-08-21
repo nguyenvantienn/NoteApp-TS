@@ -1,0 +1,17 @@
+
+.blockCenter {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.flexCenter {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 7px !important;
+}
+
+.width100 {
+    width: 100%;
+}
